@@ -1,0 +1,7 @@
+[general]
+name=Plugin Template
+description=QField plugin template
+author=OPENGIS.ch
+icon=icon.svg
+version=1.0
+homepage=https://www.opengis.ch/
